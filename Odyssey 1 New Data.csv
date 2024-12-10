@@ -1,0 +1,6 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+1,Male,0,Yes,No,35,Yes,No phone service,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,69.417,1559.041,
+2,Female,1,No,Yes,72,Yes,Yes,DSL,Yes,Yes,No,Yes,No,Yes,One year,No,Bank transfer (automatic),83.183,5440.281,
+3,Male,0,Yes,Yes,24,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),52.615,2847.151,
+4,Female,1,No,No,62,Yes,Yes,No,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,101.115,3457.983,
+5,Male,0,Yes,Yes,12,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,57.368,688.72,
