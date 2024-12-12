@@ -102,7 +102,8 @@ The data used for this analysis includes several key columns related to customer
 Deep Learning Models: Experiment with neural networks or other deep learning techniques to improve churn prediction accuracy.
 Real-Time Predictions: Implement real-time churn prediction for new customer data as they sign up or interact with the service.
 Optimization: Work on hyperparameter tuning for the RandomForest model or experiment with other models to achieve better performance.
-🙌 Contributing
+
+## 🙌 Contributing
 Feel free to fork this project, submit issues, or make pull requests if you have suggestions or improvements to share. Your contributions are always welcome!
 
 ## 📄 License
